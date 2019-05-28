@@ -1,0 +1,9 @@
+1. Prepare your machine:
+ - install ```gcloud cli```
+ - Create a project in GCP
+ - install Packer
+
+2. Create Packer Template:
+```
+
+```
